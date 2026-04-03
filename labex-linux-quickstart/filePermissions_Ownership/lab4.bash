@@ -1,0 +1,11 @@
+# --- LAB 4: Permissions ---
+echo "[Lab 04] Permission Examples"
+echo "  chmod numeric notation:"
+echo "    755 = rwxr-xr-x  (scripts/executables)"
+echo "    644 = rw-r--r--  (regular files)"
+echo "    600 = rw-------  (private keys)"
+echo "    700 = rwx------  (private directories)"
+echo ""
+echo "  To make a script executable:"
+echo "    chmod +x script.sh && ./script.sh"
+echo ""
