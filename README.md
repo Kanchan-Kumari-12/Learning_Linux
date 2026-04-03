@@ -3,7 +3,7 @@
 A collection of my Linux learning notes, practice scripts, and lab writeups as I build skills for a SOC Analyst role.
 What's Inside
 
-labex-linux-quickstart/ — notes and scripts from LabEx.io Linux Quick Start course (7/10 labs done)
+labex-linux-quickstart/ — notes and scripts from LabEx.io Linux Quick Start course
 
 ## Topics Covered So Far
 
