@@ -13,16 +13,22 @@ Account locking/unlocking
 ## Commands Practiced
 Create a new user
 bashsudo useradd -m username
+
 Set a password
 bashsudo passwd username
+
 Modify user properties (home directory & shell)
 bashsudo usermod -d /new/home username
 sudo usermod -s /bin/bash username
+
 Add user to a group
 bashsudo usermod -aG groupname username
+
 Lock and unlock an account
 bashsudo usermod -L username   # Lock
+
 sudo usermod -U username   # Unlock
+
 Delete a user
 bashsudo userdel -r username   # -r removes home directory too
 
