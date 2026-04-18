@@ -1,0 +1,5 @@
+action,username,group,shell,comment
+create,alice,developers,/bin/bash,Alice Dev
+create,bob,developers,/bin/bash,Bob Dev
+create,charlie,sysadmin,/bin/bash,Charlie Admin
+delete,olduser,developers,/bin/bash,Old User
