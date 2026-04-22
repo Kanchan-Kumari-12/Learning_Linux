@@ -1,0 +1,7 @@
+{
+        "total_packets": 15,
+        "top_source_ip": "192.168.1.105",
+        "most_used_port": "443",
+        "dns_queries": 4,
+        "report_time": "Wed Apr 22 17:42:22 UTC 2026"
+}
